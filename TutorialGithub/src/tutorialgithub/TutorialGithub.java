@@ -16,6 +16,7 @@ public class TutorialGithub {
      */
     public static void main(String[] args) {
         System.out.println("Bienvenido");
+        System.out.println("Al tutorial");
     }
     
 }
